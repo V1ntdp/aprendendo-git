@@ -1,2 +1,4 @@
 testando esse tal git -em um galho diferente
 fazendo segunda versao desse texto
+
+esta é a parte do user
